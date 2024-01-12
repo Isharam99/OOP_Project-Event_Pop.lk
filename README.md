@@ -1,0 +1,1 @@
+Event Pop.lk is an online event management system dedicated to organizing and managing events for our customers. With a range of diverse events on offer, we prioritize seamless customer experiences. Our development technologies include Java, HTML, CSS, and JavaScript, while MySQL serves as our robust database management system.
